@@ -9,3 +9,4 @@ If you're looking for support for Atom there are a lot of options, check out:
 * Chat &mdash; [Join the Atom Slack team](https://atom-slack.herokuapp.com/)
 
 On Discuss and in the Atom Slack team, there are a bunch of helpful community members that should be willing to point you in the right direction.
+Follow steps of all
