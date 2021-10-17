@@ -1,3 +1,5 @@
-# Atom Default Metadata
+# repo Default Metadata
 
-:rotating_light: **WARNING** :rotating_light: This README should only show on the repository at https://github.com/atom/.github. If it is showing on some other repo, please open an issue to have it fixed.
+:rotating_light: **WARNING** :rotating_light: This README.md https://github.com/repo/.github. If it is showing on repo, please open an issu.
+
+for more info website https://www.wikipedia.com/repo
