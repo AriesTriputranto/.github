@@ -2,12 +2,12 @@
 
 :rotating_light: **WARNING** :rotating_light: This README.md 
  
-# https://github.com/repo.io
+# https://github.com/repo
  
 If is showing on repo, please open an issu.
 
 for more info website:
 
-# https://wikipedia.com/repo
+# https://www.wikipedia.com/Wiki/repo
 
 Thank you to follow steps
