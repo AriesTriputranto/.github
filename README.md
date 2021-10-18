@@ -8,6 +8,6 @@ If is showing on repo, please open an issu.
 
 for more info website:
 
-# https://www.wikipedia.com/Wiki/repo
+# https://en.wikipedia.com/Wiki/repo
 
 Thank you to follow steps
